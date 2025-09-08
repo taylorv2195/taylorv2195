@@ -1,17 +1,16 @@
-## Hi there 👋,
-My name is Vincent Taylor, I am a student at Fayetteville Technical Community College, currently enrolled in CSC-134 for Fall 2025 semester, where I am learning about C++ Programming!  My degree path is a Bachelor's in Mechanical Engineering, which will help to advance my career in mechanical contracting.  I currently own and operate a mechanical contracting company, KIRVcomfort, LLC, where we specialize in residential and commercial HVAC installation, repair, and maintenance!  In my spare time, I enjoy creating music, playing video games, and spending time with my wife and 5 children!  I am excited to see where this path takes us!
+# Hi, I'm Vincent Taylor 👋
 
-<!--
-**taylorv2195/taylorv2195** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Currently taking CSC-134 and getting ready to learn C++!  My degree path is a Bachelor's in Mechanical Engineering, which will help to advance my career in mechanical contracting.
 
-Here are some ideas to get you started:
+## My Foo (special interest) 🎯
+- In my spare time, I enjoy creating music, playing video games, and spending time with my wife and 5 children!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- C++ as a requirement for my Bachelor's in Mechanical Engineering
+
+## Fun Fact
+- I currently own and operate a mechanical contracting company, KIRVcomfort, LLC, where we specialize in residential and commercial HVAC installation, repair, and maintenance!
+
+## Find Me
+- 📫 Right here on GitHub!
